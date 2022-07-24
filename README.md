@@ -32,6 +32,18 @@
 $ npm install
 ```
 
+## ScreenShots for developers
+
+```bash
+<img width="1029" alt="Screenshot 2022-07-24 at 3 49 10 AM" src="https://user-images.githubusercontent.com/43066831/180626653-ee539a1a-30d6-498d-8236-150e5a28cde5.png">
+<img width="1221" alt="Screenshot 2022-07-24 at 3 46 22 AM" src="https://user-images.githubusercontent.com/43066831/180626657-f8a5368c-c09e-4e16-bf3a-b501e18ce7a6.png">
+<img width="934" alt="Screenshot 2022-07-24 at 3 06 28 AM" src="https://user-images.githubusercontent.com/43066831/180626660-a3ffec12-b263-4b22-9216-7473b3fb5af2.png">
+<img width="921" alt="Screenshot 2022-07-24 at 3 07 23 AM" src="https://user-images.githubusercontent.com/43066831/180626665-487f02ab-b16d-41e4-8583-9bd27e03e6d3.png">
+<img width="912" alt="Screenshot 2022-07-24 at 3 13 18 AM" src="https://user-images.githubusercontent.com/43066831/180626666-f61132a8-9e9b-43a6-8e73-cbd6b772a2a1.png">
+<img width="780" alt="Screenshot 2022-07-24 at 3 14 25 AM" src="https://user-images.githubusercontent.com/43066831/180626667-10686ae6-639d-4619-b75d-b9e06bf99c78.png">
+<img width="1317" alt="Screenshot 2022-07-24 at 3 30 14 AM" src="https://user-images.githubusercontent.com/43066831/180626670-727a3b28-6378-46e9-a398-c770b47bf573.png">
+```
+
 ## Running the app
 
 ```bash
